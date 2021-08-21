@@ -7,3 +7,16 @@ The purpose of this project was to build and evaluate several machine learning m
 - Logistic regression with SMOTEENN combined over- and under-sampling algorithm
 - Balanced Random Forest Classifier versus Easy Ensemble Classifier algorithms
 
+## Results
+### Logistic Regression: Naive Random Oversampling
+- Balanced accuracy score: 0.66
+- Precision scores
+  - High risk: 0.01
+  - Low risk: 1.00
+- Recall scores
+  - High risk: 0.70
+  - Low risk: 0.63
+
+![Image of balanced accuracy score](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/Naive%20ROS%20Balanced%20Accuracy%20Score.png)
+![Image of confusion matrix](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/Naive%20ROS%20Confusion%20Matrix.png)
+![Image of classification report](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/Naive%20ROS%20Classification%20Report.png)
