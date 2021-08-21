@@ -46,3 +46,16 @@ The purpose of this project was to build and evaluate several machine learning m
 ![Image of balanced accuracy score](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/ClusterCentroids%20Balanced%20Accuracy%20Score.png)
 ![Image of confusion matrix](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/ClusterCentroids%20Confusion%20Matrix.png)
 ![Image of classification report](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/ClusterCentroids%20Classification%20Report.png)
+
+### Logistic Regression: SMOTEENN Combination Over- and Under-sampling
+- Balanced accuracy score: 0.68
+- Precision scores
+  - High risk: 0.01
+  - Low risk: 1.00
+- Recall scores
+  - High risk: 0.77
+  - Low risk: 0.58
+
+![Image of balanced accuracy score](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENN%20Balanced%20Accuracy%20Score.png)
+![Image of confusion matrix](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENN%20Confusion%20Matrix.png)
+![Image of classification report](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENN%20Classification%20Report.png)
