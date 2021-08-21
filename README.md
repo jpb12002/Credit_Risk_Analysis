@@ -72,3 +72,16 @@ The purpose of this project was to build and evaluate several machine learning m
 ![Image of balanced accuracy score](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/RandomForestClassifier%20Balanced%20Accuracy%20Score.png)
 ![Image of confusion matrix](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/RandomForestClassifier%20Confusion%20Matrix.png)
 ![Image of classification report](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/RandomForestClassifier%20Classification%20Report.png)
+
+### Ensemble Learner: Easy Ensemble AdaBoost Classifier
+- Balanced accuracy score: 0.93
+- Precision scores
+  - High risk: 0.09
+  - Low risk: 1.00
+- Recall scores
+  - High risk: 0.92
+  - Low risk: 0.94
+
+![Image of balanced accuracy score](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsemble%20Balanced%20Accuracy%20Score.png)
+![Image of confusion matrix](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsemble%20Confusion%20Matrix.png)
+![Image of classification report](https://github.com/jpb12002/Credit_Risk_Analysis/blob/main/Resources/Images/EasyEnsemble%20Classification%20Report.png)
